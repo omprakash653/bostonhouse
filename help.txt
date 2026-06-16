@@ -1,0 +1,5 @@
+pip install virtualenv
+virtualenv base/ python -m virtualenv base
+cd base
+scriptrs/activate
+cd ..
